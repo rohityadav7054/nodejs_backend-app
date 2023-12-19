@@ -1,5 +1,1 @@
-  //    res.sendFile('index.html')
-    // const pathlocation=path.resolve();
-    // res.sendFile(path.join(pathlocation,'./index.html'));
-    // res.status(404).send("<h1>meri merisic</h1>")
-    // res.send('<h1>HELLO WORLD</h1>');
+
